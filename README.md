@@ -7,4 +7,4 @@ They have different types of hotels such as AtliQ Seasons, AtliQ Exotica, AtliQ 
 For these hotels bookings happens in own website and also in other thirdy pary applications.
 
 I will be performing data analysis with AtliQ Grands database because this company actually facing a major challenge from their competitors.
-For that I will pull data from database into jupyter notebook and perform data analysis through pandas.
+For that I will pull data from database into jupyter notebook and perform data analysis with pandas.
